@@ -2,7 +2,7 @@ $:.push File.expand_path('../lib', __FILE__)
 
 require 'rails'
 require 'omniauth'
-require './lib/omniauth-stateless'
+# require './lib/omniauth-stateless'
 
 # Maintain your gem's version:
 require 'omniauth/stateless/version'
